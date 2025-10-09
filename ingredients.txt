@@ -2,3 +2,4 @@ avocados
 salt
 limes
 tomatos
+garlic
