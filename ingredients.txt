@@ -3,8 +3,4 @@ salt
 limes
 tomatos
 garlic
-<<<<<<< HEAD
-jalepenos
-=======
-onions
->>>>>>> origin/main
+jalapenos
